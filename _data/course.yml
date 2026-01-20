@@ -1,0 +1,28 @@
+title: CS 431/531 Web Server Design
+description: A course to develop a standard compliant HTTP web server
+semester: Spring 2026
+homepage: https://cs531-s26.github.io/
+prerequisites: Familiarity with Unix/Linux, Socket programming, Git, and Docker
+office: E&CS 3102 and online
+officehours: Tuesdays, 1:00-2:00pm (Eastern Time) and by appointment
+university:
+  name: Old Dominion University
+  abbr: ODU
+  url: https://odu.edu/
+department:
+  name: Department of Computer Science
+  abbr: CS
+  url: https://odu.edu/compsci
+location: On-campus, ED2 (Darden Education Building) 1103
+timing: Monday/Wednesday/Friday 10:00am-10:50am (Eastern Time)
+crns:
+  - 32745 (CS431)
+  - 32746 (CS531)
+instructor:
+  name: David Calano
+  email: dcala005@odu.edu
+  url: https://dcalano.dev
+  twitter: lifefromalaptop
+  avatar: /assets/images/dcalano.jpg
+discussions: https://github.com/cs531-s26/cs531-s26.github.io/discussions
+banner: /assets/images/http-response-headers.png
