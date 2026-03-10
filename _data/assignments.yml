@@ -29,10 +29,10 @@
     - Run an echo server in it
 - title: Assignment 0-3
   description: Mobile domain redirection and non-accept-encoding content negotiation examples in the wild.
-  date: 2026-04-06
+  date: 2026-04-05
   points: 6
   extra: true
-  dormant: true
+  dormant: false
   topics:
     - Redirection to mobile domain
     - Content negotiation other than accept-encoding
