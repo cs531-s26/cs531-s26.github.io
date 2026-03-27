@@ -138,6 +138,8 @@
       href: /slides/lecture-09-server-side-execution.pdf
     - title: RFC 3875
       href: https://tools.ietf.org/html/rfc3875
+    - title: RFC 1867
+      href: https://tools.ietf.org/html/rfc1867
 - title: Week 11
   date: 2026-03-30
   featured: true
