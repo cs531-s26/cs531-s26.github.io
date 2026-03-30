@@ -29,7 +29,7 @@
     - Run an echo server in it
 - title: Assignment 0-3
   description: Mobile domain redirection and non-accept-encoding content negotiation examples in the wild.
-  date: 2026-04-05
+  date: 2026-04-13
   points: 6
   extra: true
   dormant: false
@@ -41,7 +41,7 @@
   date: 2026-04-20
   points: 9
   extra: true
-  dormant: true
+  dormant: false
   topics:
     - HTTP Trailer
     - Multiple transfer encoding
