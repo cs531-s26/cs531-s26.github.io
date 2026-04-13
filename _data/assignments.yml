@@ -48,7 +48,7 @@
     - Access denied for some user agents
 - title: Assignment 0-5
   description: HTTP design improvements, WARC file comparison, and in the wild examples of non-standard status codes, wrong MIME types, and unsafe methods.
-  date: 2026-04-24
+  date: 2026-04-26
   points: 9
   extra: true
   dormant: true
