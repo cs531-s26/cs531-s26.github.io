@@ -51,7 +51,7 @@
   date: 2026-04-26
   points: 9
   extra: true
-  dormant: true
+  dormant: false
   topics:
     - Non-standard status codes
     - PATCH, PUT, and DELETE methods
