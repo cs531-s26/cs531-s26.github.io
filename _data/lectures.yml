@@ -182,6 +182,8 @@
       href: https://www.slideshare.net/hvdsomp/memento-101
     - title: Support for Various HTTP Methods on the Web
       href: https://www.slideshare.net/ibnesayeed/support-for-various-http-methods-on-the-web
+    - title: Awesome Memento
+      href: https://github.com/machawk1/awesome-memento
 - title: Week 13
   date: 2026-04-13
   featured: true
@@ -196,6 +198,10 @@
       href: https://www.slideshare.net/ibnesayeed/web-archive-warc-file-format
     - title: Supporting Web Archiving via Web Packaging
       href: https://www.slideshare.net/ibnesayeed/supporting-web-archiving-via-web-packaging
+    - title: CEDWARC
+      href: https://cedwarc.github.io/
+    - title: Awesome Web Archiving
+      href: https://github.com/iipc/awesome-web-archiving
 - title: Week 14
   date: 2026-04-20
   featured: true
